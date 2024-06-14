@@ -1,0 +1,14 @@
+{
+  "name": "learning-101",
+  "version": "1.0.0",
+  "main": "index.mjs",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon index.mjs"
+  },
+  "dependencies": {
+    "fastify": "^4.27.0",
+    "node-postgres": "^0.6.2",
+    "nodemon": "^3.1.3"
+  }
+}
